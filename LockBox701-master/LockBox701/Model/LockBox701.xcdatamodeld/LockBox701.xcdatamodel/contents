@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14490.98" systemVersion="18D109" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Content" representedClassName="Content" syncable="YES" codeGenerationType="class">
+        <attribute name="isVideo" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="path" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Content" positionX="-63" positionY="-18" width="128" height="75"/>
+    </elements>
+</model>
